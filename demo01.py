@@ -5,5 +5,7 @@
 # @chnages    : 1.
 
 print('first code!')
+def test():
+    print(111)
 if __name__ == '__main__':
     pass

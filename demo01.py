@@ -5,7 +5,6 @@
 # @chnages    : 1.
 
 print('first code!')
-print('444')
-print('2222222222')
+print('dddd')
 if __name__ == '__main__':
     pass

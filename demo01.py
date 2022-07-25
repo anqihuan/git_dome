@@ -4,6 +4,7 @@
 # @File    : demo01.py
 # @chnages    : 1.
 
-print('qa')
+print('first QA!')
+
 if __name__ == '__main__':
     pass

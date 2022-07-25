@@ -6,7 +6,6 @@
 
 print('first code!')
 print('444')
-def test():
-    print(111)
+print('555')
 if __name__ == '__main__':
     pass

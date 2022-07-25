@@ -7,6 +7,8 @@
 #小B提交代码
 #小a提交代码
 #小D提交代码
+print('first QA!')
+print('first QA1!')
 
 if __name__ == '__main__':
     pass

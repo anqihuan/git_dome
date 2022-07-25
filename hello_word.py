@@ -4,7 +4,7 @@
 # @File    : hello_word.py
 # @chnages    : 1.
 
-print('Hello Word!')
+print('first dev!')
 
 if __name__ == '__main__':
     pass

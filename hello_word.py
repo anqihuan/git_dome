@@ -5,6 +5,9 @@
 # @chnages    : 1.
 
 print('first dev!')
+print('我是小a')
+print('我是小aa')
+
 
 if __name__ == '__main__':
     pass

@@ -5,6 +5,8 @@
 # @chnages    : 1.
 
 print('first code!')
-print('2222')
+print('444')
+def test():
+    print(111)
 if __name__ == '__main__':
     pass

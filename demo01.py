@@ -12,6 +12,7 @@ print('first QA1!')
 #小D提交代码
 print('first QA!')
 print('first QA1!')
+print('first 小aa!')
 
 if __name__ == '__main__':
     pass

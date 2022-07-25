@@ -4,9 +4,6 @@
 # @File    : demo01.py
 # @chnages    : 1.
 
-print('first code!')
-print('444')
-def test():
-    print(111)
+print('qa')
 if __name__ == '__main__':
     pass
